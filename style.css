@@ -1,0 +1,12 @@
+body {
+background-image: url(background.jpg);
+background-size: cover;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+div [image]{
+	border-radius: 25px
+}
